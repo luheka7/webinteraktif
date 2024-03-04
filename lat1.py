@@ -15,7 +15,7 @@ from kalkulatorluas import kalkulatorsegitiga
 # df
     
 PAGES = {
-    "Page 1" : page_1,
+    "Home" : page_1,
     "Page 2" : page_2,
     "Page 3" : page_3,
     "Kalkulator luas" : kalkulatorsegitiga
